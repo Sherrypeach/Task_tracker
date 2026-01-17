@@ -8,7 +8,9 @@ This project is a simple **Task Tracker** command-line program written in **Pyth
 
 I built this software to practice core programming concepts such as **functions**, **lists/dictionaries**, **input validation**, and **file I/O** (saving/loading data).
 
-[Software Demo Video](PASTE-YOUR-VIDEO-LINK-HERE)
+[Software Demo Video]()
+
+github: https://github.com/Sherrypeach/Task_tracker
 
 # Development Environment
 - Language: Python 3
